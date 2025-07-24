@@ -1,4 +1,4 @@
-# UserTaskManager API 🧠📋
+# UserTaskManager API 📋
 
 Este proyecto nació como parte de mi proceso de aprendizaje y consolidación en desarrollo backend con Spring Boot. Lo trabajé desde cero, estructurando todo manualmente y resolviendo errores técnicos con Maven, Git, VS Code y GitHub Desktop para lograr un proyecto limpio, versionado y funcional.
 
