@@ -20,26 +20,26 @@ Esto es una réplica personalizada para practicar software. No es copy-paste, si
 ---
 
 📁 UserTaskManager-API/
-├── ⚙️ application.yml                → Configuración general del proyecto
+├── ⚙️ application.yml               → Configuración general del proyecto
 ├── 🐳 Dockerfile                    → Imagen Docker del backend
-├── 🐙 docker-compose.yml            → Orquestación de servicios
+├── 🐙 docker-compose.yml           → Orquestación de servicios
 
 ├── 🧠 src/
 │   ├── 🧱 main/
 │   │   └── 🖥️ java/
-│   │       └── 🧑‍💻 com/
+│   │       └── 👨‍💻 com/
 │   │           └── 🌐 adrieldobal/
 │   │               └── 📦 usertaskmanager/
 │   │                   ├── 📂 controller/     → Controladores REST
 │   │                   ├── ⚙️ service/        → Lógica de negocio
 │   │                   ├── 🧬 model/          → Entidades del sistema
-│   │                   ├── 📨 dto/            → Objetos de transferencia de datos
-│   │                   ├── 🔧 config/         → Configuraciones específicas (CORS, Swagger, JWT)
+│   │                   ├── 📨 dto/            → Transferencia de datos
+│   │                   ├── 🔧 config/         → CORS, Swagger, JWT, etc.
 │   │                   └── ❗ exception/      → Gestión de errores personalizados
-
+│
 │   └── 🧪 test/
 │       └── 🖥️ java/
-│           └── 🧑‍💻 com/
+│           └── 👨‍💻 com/
 │               └── 🌐 adrieldobal/
 │                   └── 📦 usertaskmanager/
 │                       ├── ⚙️ service/        → Tests de lógica
@@ -47,7 +47,8 @@ Esto es una réplica personalizada para practicar software. No es copy-paste, si
 
 ├── 🔄 .github/
 │   └── 🔁 workflows/
-│       └── ⚙️ ci.yml                → Configuración de CI con GitHub Actions
+│       └── ⚙️ ci.yml               → CI/CD con GitHub Actions
+
 
 ---
 
