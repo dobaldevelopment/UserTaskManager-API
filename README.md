@@ -19,6 +19,7 @@ Esto es una réplica personalizada para practicar software. No es copy-paste, si
 
 ---
 
+```
 📁 UserTaskManager-API/
 ├── ⚙️ application.yml               → Configuración general del proyecto
 ├── 🐳 Dockerfile                    → Imagen Docker del backend
@@ -48,7 +49,7 @@ Esto es una réplica personalizada para practicar software. No es copy-paste, si
 ├── 🔄 .github/
 │   └── 🔁 workflows/
 │       └── ⚙️ ci.yml               → CI/CD con GitHub Actions
-
+```
 
 ---
 
