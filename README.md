@@ -21,9 +21,9 @@ Esto es una réplica personalizada para practicar software. No es copy-paste, si
 
 ```
 📁 UserTaskManager-API/
-├── ⚙️ application.yml               → Configuración general del proyecto
-├── 🐳 Dockerfile                    → Imagen Docker del backend
-├── 🐙 docker-compose.yml            → Orquestación de servicios
+├── ⚙️ application.yml                        → Configuración general del proyecto
+├── 🐳 Dockerfile                             → Imagen Docker del backend
+├── 🐙 docker-compose.yml                     → Orquestación de servicios
 
 ├── 🧠 src/
 │   ├── 🧱 main/
