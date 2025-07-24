@@ -25,18 +25,22 @@ UserTaskManager-API/
 ├── src/
 │   ├── main/
 │   │   └── java/
-│   │       └── com/adrieldobal/usertaskmanager/
-│   │           ├── controller/
-│   │           ├── service/
-│   │           ├── model/
-│   │           ├── dto/
-│   │           ├── config/
-│   │           └── exception/
+│   │       └── com/
+│   │           └── adrieldobal/
+│   │               └── usertaskmanager/
+│   │                   ├── controller/
+│   │                   ├── service/
+│   │                   ├── model/
+│   │                   ├── dto/
+│   │                   ├── config/
+│   │                   └── exception/
 │   └── test/
 │       └── java/
-│           └── com/adrieldobal/usertaskmanager/
-│               ├── service/
-│               └── controller/
+│           └── com/
+│               └── adrieldobal/
+│                   └── usertaskmanager/
+│                       ├── service/
+│                       └── controller/
 ├── application.yml
 ├── Dockerfile
 ├── docker-compose.yml
