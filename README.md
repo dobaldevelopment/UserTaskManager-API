@@ -21,26 +21,28 @@ Esto es una réplica personalizada para practicar software. No es copy-paste, si
 
 ## 🧩 Estructura base del repositorio
 
-📁 UserTaskManager-API/ 
-├── src/ │ 
-├── main/ │ 
-│ └── java/ 
-│ │ └── com/adrieldobal/usertaskmanager/ 
-│ │ ├── controller/ 
-│ │ ├── service/ 
-│ │ ├── model/ 
-│ │ ├── dto/ 
-│ │ ├── config/ 
-│ │ └── exception/ 
-│ ├── test/ │ 
-│ └── java/com/adrieldobal/usertaskmanager/ 
-│ │ ├── service/ 
-│ │ └── controller/ 
-├── application.yml 
-├── Dockerfile 
-├── docker-compose.yml 
-└── .github/workflows/ci.yml
-
+UserTaskManager-API/
+├── src/
+│   ├── main/
+│   │   └── java/
+│   │       └── com/adrieldobal/usertaskmanager/
+│   │           ├── controller/
+│   │           ├── service/
+│   │           ├── model/
+│   │           ├── dto/
+│   │           ├── config/
+│   │           └── exception/
+│   └── test/
+│       └── java/
+│           └── com/adrieldobal/usertaskmanager/
+│               ├── service/
+│               └── controller/
+├── application.yml
+├── Dockerfile
+├── docker-compose.yml
+└── .github/
+    └── workflows/
+        └── ci.yml
 
 ---
 
