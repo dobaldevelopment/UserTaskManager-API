@@ -4,7 +4,7 @@ Este proyecto nació como parte de mi proceso de aprendizaje y consolidación en
 
 La API permite **registrar usuarios, iniciar sesión, gestionar tareas** y validar todos los datos de forma segura. También preparé el entorno para testeo, despliegue y documentación.
 
-Esto es una réplica personalizada para practicar software. No es copy-paste, sino una forma de iterar sobre lo aprendido.
+! Esto es una réplica personalizada para practicar software. No es copy-paste, sino una forma de iterar sobre lo aprendido.
 
 ---
 
